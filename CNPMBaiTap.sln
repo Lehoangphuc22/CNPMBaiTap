@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CNPMBaiTap", "CNPMBaiTap\CNPMBaiTap.csproj", "{9BEA12FB-8039-4540-81FC-6FDE1679F8DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BEA12FB-8039-4540-81FC-6FDE1679F8DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BEA12FB-8039-4540-81FC-6FDE1679F8DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BEA12FB-8039-4540-81FC-6FDE1679F8DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BEA12FB-8039-4540-81FC-6FDE1679F8DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EB51A49-D001-4E56-87B0-989B1E482DAB}
+	EndGlobalSection
+EndGlobal
